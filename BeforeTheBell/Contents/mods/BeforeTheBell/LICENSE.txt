@@ -1,0 +1,64 @@
+Before the Bell Licence
+
+Copyright (c) 2026 Ohhoop. All rights reserved, except as written below.
+
+This licence covers Before the Bell: its code, its game design, its rules,
+its characters, its art, its sounds, its music and its texts, in this
+repository, in the Steam Workshop items that ship it, and in every copy of
+them.
+
+Before the Bell is a cartridge for SpiffBoy, made with the SpiffBoy SDK.
+SpiffBoy and the SpiffBoy SDK keep their own licences. This licence does
+not change them.
+
+Before the Bell follows the Project Zomboid Modding Policy and the Project
+Zomboid Terms and Conditions of The Indie Stone. Where this licence and them
+disagree, they prevail.
+
+1. The Indie Stone
+
+   The Indie Stone may use, modify, reproduce, create derivative works from,
+   distribute, transmit, perform, communicate and exploit Before the Bell and
+   its code, in whole or in part, in connection with Project Zomboid,
+   including in the game itself, as the Project Zomboid Modding Policy
+   describes.
+
+2. What you may do
+
+   a. Download, install and play Before the Bell in Project Zomboid, in
+      single player and on multiplayer servers.
+   b. Add Before the Bell to a server or a Steam Workshop collection by
+      pointing to its Steam Workshop item.
+   c. Modify Before the Bell, or put it in a private modpack, for your own
+      personal use, without making it available to anyone else.
+   d. Record, stream and publish videos and screenshots of Before the Bell.
+
+3. What you may not do without the written permission of Ohhoop
+
+   a. Copy, upload or redistribute Before the Bell or any part of it,
+      including in a public or unlisted modpack.
+   b. Publish a modified version of Before the Bell.
+   c. Make and publish a derivative work of Before the Bell, including a
+      translation, a port or a rewrite of its code made by hand or with any
+      software, and any game that reproduces its characters, its art or its
+      content.
+   d. Use its art, sounds, music, characters or texts in any other work.
+   e. Sell Before the Bell or any part of it, or put any of it behind a
+      paywall or a donation.
+
+4. Project Zomboid
+
+   Thanks to The Indie Stone for creating Project Zomboid
+   (https://projectzomboid.com/), which made this possible. This is an
+   unofficial fan production for non-commercial purposes made under the
+   Indie Stone Terms (https://projectzomboid.com/blog/support/terms-conditions/).
+   Project Zomboid and Spiffo belong to The Indie Stone. Before the Bell is
+   not official and is not affiliated with The Indie Stone.
+
+5. No warranty
+
+   Before the Bell is provided as is, without warranty of any kind. Ohhoop
+   is not liable for any damage arising from its use.
+
+To ask for a permission, write to Ohhoop on the Steam Workshop page of
+Before the Bell.

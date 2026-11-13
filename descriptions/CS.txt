@@ -1,0 +1,61 @@
+[img]https://ohhoop.github.io/Before-the-Bell/i/title.png[/img]
+
+Dámy a pánové... zvon zvoní... a zvoní pro [b]vás[/b]!
+Představujeme [b]Before the Bell[/b], nové dobrodružství pro váš [b]SpiffBoy[/b]!
+Stateční hrdinové! Zářivé poklady! Odporní nepřátelé a mocní bossové!
+Ve dne se vyzbrojte. V noci vydržte. A až zvon udeří... [i]buďte připraveni.[/i]
+Při každé hře úplně nová země! [i]Žádná dvě dobrodružství nejsou stejná.[/i]
+Pořiďte si ji ještě dnes! [i]SpiffBoy se prodává samostatně.[/i]
+
+Autobattler roguelite: tři dějství, na konci každého boss a při každém průchodu nová cesta.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-by-day.png[/img]
+[b]Nakupujte! Plundrujte! Kovejte! Postavte hrdinu svých snů![/b]
+Každý průchod začíná na úplně nové mapě. Trávte dny na cestě, navštěvujte obchodníky, otevírejte truhly, zastavte se v kovárně a proměňte hrstku harampádí v hrdinu, ze kterého jde strach. Desítky předmětů k nalezení, kombinování a vylepšování, a žádné dva průchody neskončí se stejným buildem.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-by-day.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-by-night.png[/img]
+[b]Slunce zapadá. Lov začíná.[/b]
+Když světlo pohasne, mapa už nepatří vám. Co se skrývalo v lesích, vylézá, aby vás pronásledovalo, a do rána se počítá každý krok. Vydržte, a čeká vás nový den.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-by-night.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-the-bell.png[/img]
+[b]Žádné mačkání tlačítek. Jen vy, vaše výbava a zvon.[/b]
+Souboje se odehrávají samy, ránu po ráně, na vlastní obrazovce. Mečem nikdy nemáváte vy: všechno, co jste na cestě nasbírali, bojuje za vás. A na konci každého dějství zvon udeří a něco velkého odpoví.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-the-bell.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-the-camp.png[/img]
+[b]Dnes prohrajte. Zítra se vraťte silnější![/b]
+Pády k cestě patří. Každý průchod, vyhraný i prohraný, přinese něco zpátky do tábora: nové hrdiny s vlastními triky, nové poklady k nalezení na cestě a nové způsoby, jak se připravit. Vyhrajte, a další cesta bude temnější.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-the-camp.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-faq.png[/img]
+Q: Co potřebuji ke hraní?
+A: SpiffBoy. Before the Bell je pro něj herní kazeta.
+
+Q: Kde najdu herní kazetu?
+A: Někde tam venku, kde se herní kazety SpiffBoy rády schovávají.
+
+Q: Funguje to v multiplayeru?
+A: Je to hra pro jednoho hráče a na multiplayerových serverech funguje bez problémů.
+
+Q: Je to přeložené?
+A: Do všech jazyků, které hra podporuje.
+
+Q: Je bezpečné ho přidat nebo odebrat uprostřed hry?
+A: Ano. Pokud ho odeberete, přijdete o herní kazetu i její uloženou hru.
+
+Q: Odkud přišel nápad?
+A: Nápad zažehla hra [url=https://store.steampowered.com/app/2824490/He_is_Coming/]He is Coming[/url] od Chronocle. Jiná hra, jiný příběh, stejná láska k žánru. Vyzkoušejte ji!
+
+Své postřehy, hlášení chyb a nápady klidně pište do komentářů, čtu všechno.
+
+Before the Bell © 2026 Ohhoop. Všechna práva vyhrazena. Vytvořeno pomocí [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3825220785]SpiffBoy SDK[/url]. [url=https://github.com/Ohhoop/Before-the-Bell/blob/main/LICENSE]Licence[/url]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3825220364][img]https://ohhoop.github.io/SpiffBoy/i/showcase.gif[/img][/url]
+Vyžaduje: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3825220364]SpiffBoy[/url]
+Mod ID: BeforeTheBell

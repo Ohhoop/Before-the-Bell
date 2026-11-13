@@ -1,0 +1,5 @@
+version=1
+title=Before the Bell - A SpiffBoy Game
+description=A SpiffBoy cartridge: gear up a hero, roam a cursed land and face what comes when the bell tolls.
+tags=Build 42;Items;Multiplayer;Silly/Fun
+visibility=public

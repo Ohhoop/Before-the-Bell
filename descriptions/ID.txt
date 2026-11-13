@@ -1,0 +1,61 @@
+[img]https://ohhoop.github.io/Before-the-Bell/i/title.png[/img]
+
+Hadirin sekalian... lonceng berbunyi... dan berbunyi untuk [b]kamu[/b]!
+Inilah [b]Before the Bell[/b], petualangan baru untuk [b]SpiffBoy[/b] milikmu!
+Pahlawan pemberani! Harta berkilauan! Musuh keji dan bos perkasa!
+Perlengkapi dirimu di siang hari. Bertahanlah sepanjang malam. Dan saat lonceng berdentang... [i]bersiaplah.[/i]
+Dunia baru setiap kali kamu bermain! [i]Tak ada dua petualangan yang sama.[/i]
+Dapatkan milikmu hari ini! [i]SpiffBoy dijual terpisah.[/i]
+
+Roguelite autobattler: tiga babak, bos di akhir setiap babak, dan jalan baru di setiap run.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-by-day.png[/img]
+[b]Belanja! Jarah! Tempa! Ciptakan pahlawan impianmu![/b]
+Setiap run dimulai di peta yang benar-benar baru. Habiskan harimu di jalan, kunjungi pedagang, buka peti dan mampir ke tempat tempa, lalu ubah segenggam barang rongsokan menjadi pahlawan yang ditakuti. Puluhan item untuk ditemukan, digabungkan, dan ditingkatkan, dan tak ada dua run yang berakhir dengan build yang sama.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-by-day.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-by-night.png[/img]
+[b]Matahari terbenam. Perburuan dimulai.[/b]
+Saat cahaya meredup, peta bukan lagi milikmu. Yang bersembunyi di hutan keluar untuk mengejarmu, dan setiap langkah berarti hingga pagi. Lewati malam itu, dan hari baru sudah menanti.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-by-night.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-the-bell.png[/img]
+[b]Tak perlu menekan tombol bertubi-tubi. Hanya kamu, perlengkapanmu, dan lonceng.[/b]
+Pertarungan berjalan sendiri, pukulan demi pukulan, di layarnya sendiri. Kamu tak pernah mengayunkan pedang: semua yang kamu kumpulkan di jalan bertarung untukmu. Dan di akhir setiap babak lonceng berdentang, dan sesuatu yang besar menjawab.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-the-bell.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-the-camp.png[/img]
+[b]Kalah hari ini. Kembali lebih kuat besok![/b]
+Jatuh adalah bagian dari perjalanan. Setiap run, menang atau kalah, membawa sesuatu pulang ke kemah: pahlawan baru dengan trik masing-masing, harta baru untuk ditemukan di jalan, dan cara baru untuk bersiap. Menanglah, dan jalan berikutnya jadi lebih gelap.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-the-camp.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-faq.png[/img]
+Q: Apa yang kubutuhkan untuk bermain?
+A: Sebuah SpiffBoy. Before the Bell adalah kartrid untuknya.
+
+Q: Di mana aku bisa menemukan kartridnya?
+A: Di luar sana, di mana pun kartrid SpiffBoy suka bersembunyi.
+
+Q: Apakah bisa di multiplayer?
+A: Ini game satu pemain, dan berjalan lancar di server multiplayer.
+
+Q: Apakah sudah diterjemahkan?
+A: Ke semua bahasa yang didukung game ini.
+
+Q: Apakah aman ditambahkan atau dihapus di tengah save yang sedang berjalan?
+A: Ya. Jika kamu menghapusnya, kamu akan kehilangan kartrid beserta save-nya.
+
+Q: Dari mana idenya berasal?
+A: [url=https://store.steampowered.com/app/2824490/He_is_Coming/]He is Coming[/url] karya Chronocle memicu idenya. Game berbeda, cerita berbeda, cinta yang sama pada genrenya. Coba mainkan!
+
+Silakan bagikan masukan, laporan bug, dan idemu di kolom komentar, aku membaca semuanya.
+
+Before the Bell © 2026 Ohhoop. Hak cipta dilindungi. Dibuat dengan [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3825220785]SpiffBoy SDK[/url]. [url=https://github.com/Ohhoop/Before-the-Bell/blob/main/LICENSE]Lisensi[/url]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3825220364][img]https://ohhoop.github.io/SpiffBoy/i/showcase.gif[/img][/url]
+Membutuhkan: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3825220364]SpiffBoy[/url]
+Mod ID: BeforeTheBell

@@ -1,0 +1,61 @@
+[img]https://ohhoop.github.io/Before-the-Bell/i/title.png[/img]
+
+Ladies and gentlemen... the bell is ringing... and it rings for [b]you[/b]!
+Introducing [b]Before the Bell[/b], the new adventure for your [b]SpiffBoy[/b]!
+Brave heroes! Shining treasures! Foul foes and mighty bosses!
+Gear up by day. Hold on through the night. And when the bell tolls... [i]be ready.[/i]
+A brand new land every time you play! [i]No two adventures alike.[/i]
+Get yours today! [i]SpiffBoy sold separately.[/i]
+
+An autobattler roguelite: three acts, a boss at the end of each, and a new road every run.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-by-day.png[/img]
+[b]Shop! Loot! Forge! Build the hero of your dreams![/b]
+Every run starts on a brand new map. Spend your days on the road, visit merchants, open chests and stop by the forge, and turn a handful of odds and ends into a hero worth fearing. Dozens of items to find, combine and upgrade, and no two runs end up with the same build.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-by-day.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-by-night.png[/img]
+[b]The sun goes down. The hunt begins.[/b]
+When the light fades, the map is no longer yours. What hid in the woods comes out to chase you, and every step counts until morning. Make it through, and a new day is waiting.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-by-night.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-the-bell.png[/img]
+[b]No buttons to mash. Just you, your gear, and the bell.[/b]
+Battles play out on their own, blow by blow, on a screen of their own. You never swing the sword: everything you gathered on the road fights for you. And at the end of every act the bell tolls, and something big answers.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-the-bell.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-the-camp.png[/img]
+[b]Lose today. Come back stronger tomorrow![/b]
+Falling is part of the journey. Every run, won or lost, brings something back to camp: new heroes with tricks of their own, new treasures to find on the road, and new ways to get ready. Win, and the next road gets darker.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-the-camp.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-faq.png[/img]
+Q: What do I need to play?
+A: A SpiffBoy. Before the Bell is a cartridge for it.
+
+Q: Where do I find the cartridge?
+A: Out there, wherever SpiffBoy cartridges like to hide.
+
+Q: Does it work in multiplayer?
+A: It is a one player game, and it plays fine on multiplayer servers.
+
+Q: Is it translated?
+A: Into every language the game supports.
+
+Q: Is it safe to add or remove mid-save?
+A: Yes. If you remove it, you will lose the cartridge and its save.
+
+Q: Where did the idea come from?
+A: [url=https://store.steampowered.com/app/2824490/He_is_Coming/]He is Coming[/url] by Chronocle sparked the idea. Different game, different story, same love for the genre. Go give it a try!
+
+Feel free to share your feedback, bug reports and ideas in the comment section, I read everything.
+
+Before the Bell © 2026 Ohhoop. All rights reserved. Made with the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3825220785]SpiffBoy SDK[/url]. [url=https://github.com/Ohhoop/Before-the-Bell/blob/main/LICENSE]Licence[/url]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3825220364][img]https://ohhoop.github.io/SpiffBoy/i/showcase.gif[/img][/url]
+Requires: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3825220364]SpiffBoy[/url]
+Mod ID: BeforeTheBell

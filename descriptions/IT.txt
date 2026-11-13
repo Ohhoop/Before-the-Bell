@@ -1,0 +1,61 @@
+[img]https://ohhoop.github.io/Before-the-Bell/i/title.png[/img]
+
+Signore e signori... la campana suona... e suona per [b]te[/b]!
+Ecco a voi [b]Before the Bell[/b], la nuova avventura per il tuo [b]SpiffBoy[/b]!
+Eroi coraggiosi! Tesori scintillanti! Nemici malvagi e boss potentissimi!
+Equipaggiati di giorno. Resisti per tutta la notte. E quando la campana rintocca... [i]fatti trovare pronto.[/i]
+Una terra tutta nuova a ogni partita! [i]Mai due avventure uguali.[/i]
+Prendi la tua oggi stesso! [i]SpiffBoy venduto separatamente.[/i]
+
+Un roguelite autobattler: tre atti, un boss alla fine di ciascuno e una strada nuova a ogni run.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-by-day.png[/img]
+[b]Compra! Saccheggia! Forgia! Crea l'eroe dei tuoi sogni![/b]
+Ogni run inizia su una mappa tutta nuova. Passa le giornate in viaggio, visita i mercanti, apri i forzieri e fai un salto alla forgia, e trasforma una manciata di cianfrusaglie in un eroe da temere. Decine di oggetti da trovare, combinare e potenziare, e non esistono due run che finiscono con la stessa build.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-by-day.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-by-night.png[/img]
+[b]Il sole tramonta. La caccia comincia.[/b]
+Quando la luce svanisce, la mappa non è più tua. Ciò che si nascondeva nei boschi esce per darti la caccia, e ogni passo conta fino al mattino. Tieni duro fino all'alba, e un nuovo giorno ti aspetta.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-by-night.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-the-bell.png[/img]
+[b]Nessun pulsante da martellare. Solo tu, il tuo equipaggiamento e la campana.[/b]
+Le battaglie si svolgono da sole, colpo dopo colpo, su uno schermo tutto loro. Non sei mai tu a brandire la spada: tutto ciò che hai raccolto lungo la strada combatte per te. E alla fine di ogni atto la campana rintocca, e qualcosa di enorme risponde.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-the-bell.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-the-camp.png[/img]
+[b]Perdi oggi. Torna più forte domani![/b]
+Cadere fa parte del viaggio. Ogni run, vinta o persa, riporta qualcosa all'accampamento: nuovi eroi con i loro assi nella manica, nuovi tesori da trovare lungo la strada e nuovi modi per prepararsi. Vinci, e la strada successiva si fa più buia.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-the-camp.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-faq.png[/img]
+Q: Cosa mi serve per giocare?
+A: Uno SpiffBoy. Before the Bell è una cartuccia per lo SpiffBoy.
+
+Q: Dove trovo la cartuccia?
+A: Là fuori, ovunque le cartucce SpiffBoy amino nascondersi.
+
+Q: Funziona in multiplayer?
+A: È un gioco per un solo giocatore e funziona benissimo sui server multiplayer.
+
+Q: È tradotto?
+A: In tutte le lingue supportate dal gioco.
+
+Q: Si può aggiungere o rimuovere a partita in corso senza rischi?
+A: Sì. Se lo rimuovi, perderai la cartuccia e il suo salvataggio.
+
+Q: Da dove viene l'idea?
+A: [url=https://store.steampowered.com/app/2824490/He_is_Coming/]He is Coming[/url] di Chronocle ha acceso la scintilla. Gioco diverso, storia diversa, stesso amore per il genere. Provatelo!
+
+Lascia pure feedback, segnalazioni di bug e idee nella sezione commenti, leggo tutto.
+
+Before the Bell © 2026 Ohhoop. Tutti i diritti riservati. Realizzato con lo [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3825220785]SpiffBoy SDK[/url]. [url=https://github.com/Ohhoop/Before-the-Bell/blob/main/LICENSE]Licenza[/url]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3825220364][img]https://ohhoop.github.io/SpiffBoy/i/showcase.gif[/img][/url]
+Richiede: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3825220364]SpiffBoy[/url]
+Mod ID: BeforeTheBell

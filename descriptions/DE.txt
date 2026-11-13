@@ -1,0 +1,61 @@
+[img]https://ohhoop.github.io/Before-the-Bell/i/title.png[/img]
+
+Meine Damen und Herren... die Glocke läutet... und sie läutet für [b]dich[/b]!
+Wir präsentieren [b]Before the Bell[/b], das neue Abenteuer für deinen [b]SpiffBoy[/b]!
+Tapfere Helden! Funkelnde Schätze! Fiese Gegner und mächtige Bosse!
+Rüste dich bei Tag. Halte durch bei Nacht. Und wenn die Glocke schlägt... [i]sei bereit.[/i]
+Bei jedem Spiel ein brandneues Land! [i]Kein Abenteuer gleicht dem anderen.[/i]
+Hol dir deins noch heute! [i]SpiffBoy separat erhältlich.[/i]
+
+Ein Autobattler-Roguelite: drei Akte, ein Boss am Ende jedes Akts und ein neuer Weg bei jedem Durchlauf.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-by-day.png[/img]
+[b]Kaufen! Plündern! Schmieden! Bau dir den Helden deiner Träume![/b]
+Jeder Durchlauf beginnt auf einer brandneuen Karte. Verbring deine Tage auf der Straße, besuch Händler, öffne Truhen, schau in der Schmiede vorbei und mach aus einer Handvoll Krimskrams einen Helden, den man fürchten muss. Dutzende Gegenstände zum Finden, Kombinieren und Verbessern, und kein Durchlauf endet mit demselben Build.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-by-day.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-by-night.png[/img]
+[b]Die Sonne geht unter. Die Jagd beginnt.[/b]
+Wenn das Licht schwindet, gehört die Karte nicht mehr dir. Was sich im Wald versteckt hat, kommt heraus, um dich zu jagen, und bis zum Morgen zählt jeder Schritt. Halte durch, und ein neuer Tag erwartet dich.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-by-night.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-the-bell.png[/img]
+[b]Kein Knöpfchendrücken. Nur du, deine Ausrüstung und die Glocke.[/b]
+Die Kämpfe laufen von selbst ab, Schlag für Schlag, auf einem eigenen Bildschirm. Du schwingst nie selbst das Schwert: Alles, was du unterwegs gesammelt hast, kämpft für dich. Und am Ende jedes Akts schlägt die Glocke, und etwas Großes antwortet.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-the-bell.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-the-camp.png[/img]
+[b]Heute verlieren. Morgen stärker zurückkommen![/b]
+Fallen gehört zur Reise dazu. Jeder Durchlauf, ob gewonnen oder verloren, bringt etwas mit ins Lager: neue Helden mit eigenen Tricks, neue Schätze, die du unterwegs finden kannst, und neue Wege, dich vorzubereiten. Gewinne, und der nächste Weg wird dunkler.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-the-camp.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-faq.png[/img]
+Q: Was brauche ich zum Spielen?
+A: Einen SpiffBoy. Before the Bell ist ein Spielmodul dafür.
+
+Q: Wo finde ich das Spielmodul?
+A: Irgendwo da draußen, wo sich SpiffBoy-Spielmodule eben gern verstecken.
+
+Q: Funktioniert es im Mehrspielermodus?
+A: Es ist ein Einzelspielerspiel und läuft problemlos auf Mehrspielerservern.
+
+Q: Ist es übersetzt?
+A: In jede Sprache, die das Spiel unterstützt.
+
+Q: Kann ich es mitten im Spielstand gefahrlos hinzufügen oder entfernen?
+A: Ja. Wenn du es entfernst, verlierst du das Spielmodul und seinen Spielstand.
+
+Q: Woher kam die Idee?
+A: [url=https://store.steampowered.com/app/2824490/He_is_Coming/]He is Coming[/url] von Chronocle hat den Funken gezündet. Anderes Spiel, andere Geschichte, dieselbe Liebe zum Genre. Probiert es aus!
+
+Teile gerne dein Feedback, Fehlerberichte und Ideen im Kommentarbereich, ich lese alles.
+
+Before the Bell © 2026 Ohhoop. Alle Rechte vorbehalten. Erstellt mit dem [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3825220785]SpiffBoy SDK[/url]. [url=https://github.com/Ohhoop/Before-the-Bell/blob/main/LICENSE]Lizenz[/url]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3825220364][img]https://ohhoop.github.io/SpiffBoy/i/showcase.gif[/img][/url]
+Benötigt: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3825220364]SpiffBoy[/url]
+Mod ID: BeforeTheBell

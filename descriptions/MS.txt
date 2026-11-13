@@ -1,0 +1,61 @@
+[img]https://ohhoop.github.io/Before-the-Bell/i/title.png[/img]
+
+Tuan-tuan dan puan-puan... loceng sedang berbunyi... dan ia berbunyi untuk [b]anda[/b]!
+Inilah [b]Before the Bell[/b], pengembaraan baharu untuk [b]SpiffBoy[/b] anda!
+Wira yang berani! Harta yang berkilauan! Musuh yang jahat dan bos yang perkasa!
+Lengkapkan diri pada waktu siang. Bertahan sepanjang malam. Dan apabila loceng berdenting... [i]bersedialah.[/i]
+Dunia baharu setiap kali anda bermain! [i]Tiada dua pengembaraan yang sama.[/i]
+Dapatkan milik anda hari ini! [i]SpiffBoy dijual berasingan.[/i]
+
+Roguelite autobattler: tiga babak, bos di hujung setiap babak, dan jalan baharu setiap pusingan.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-by-day.png[/img]
+[b]Beli! Rampas! Tempa! Bina wira impian anda![/b]
+Setiap pusingan bermula di peta yang serba baharu. Habiskan hari anda di jalanan, kunjungi pedagang, buka peti dan singgah di bengkel tempa, lalu ubah segenggam barang remeh menjadi wira yang digeruni. Berpuluh-puluh item untuk dicari, digabungkan dan dinaik taraf, dan tiada dua pusingan yang berakhir dengan binaan yang sama.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-by-day.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-by-night.png[/img]
+[b]Matahari terbenam. Pemburuan bermula.[/b]
+Apabila cahaya pudar, peta itu bukan lagi milik anda. Apa yang bersembunyi di dalam hutan keluar untuk mengejar anda, dan setiap langkah penting sehingga pagi. Harunginya, dan hari baharu sedang menanti.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-by-night.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-the-bell.png[/img]
+[b]Tiada butang untuk ditekan bertalu-talu. Hanya anda, kelengkapan anda, dan loceng.[/b]
+Pertarungan berlangsung dengan sendirinya, pukulan demi pukulan, di skrinnya sendiri. Anda tidak pernah menghayun pedang: segala yang anda kumpul di jalanan bertarung untuk anda. Dan di hujung setiap babak loceng berdenting, dan sesuatu yang besar menjawab.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-the-bell.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-the-camp.png[/img]
+[b]Kalah hari ini. Kembali lebih kuat esok![/b]
+Jatuh ialah sebahagian daripada perjalanan. Setiap pusingan, menang atau kalah, membawa sesuatu pulang ke kem: wira baharu dengan helah tersendiri, harta baharu untuk ditemui di jalanan, dan cara baharu untuk bersedia. Menang, dan jalan seterusnya menjadi lebih gelap.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-the-camp.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-faq.png[/img]
+Q: Apa yang saya perlukan untuk bermain?
+A: Sebuah SpiffBoy. Before the Bell ialah kartrij untuknya.
+
+Q: Di mana saya boleh menemui kartrij ini?
+A: Di luar sana, di mana-mana sahaja kartrij SpiffBoy suka bersembunyi.
+
+Q: Adakah ia berfungsi dalam multiplayer?
+A: Ia permainan satu pemain, dan ia berjalan lancar di pelayan multiplayer.
+
+Q: Adakah ia diterjemahkan?
+A: Ke dalam setiap bahasa yang disokong oleh permainan.
+
+Q: Adakah selamat untuk menambah atau membuangnya di tengah-tengah simpanan?
+A: Ya. Jika anda membuangnya, anda akan kehilangan kartrij dan simpanannya.
+
+Q: Dari mana datangnya idea ini?
+A: [url=https://store.steampowered.com/app/2824490/He_is_Coming/]He is Coming[/url] daripada Chronocle mencetuskan idea ini. Permainan berbeza, cerita berbeza, cinta yang sama terhadap genrenya. Cubalah!
+
+Jangan segan untuk berkongsi maklum balas, laporan pepijat dan idea anda di ruangan komen, saya baca semuanya.
+
+Before the Bell © 2026 Ohhoop. Hak cipta terpelihara. Dibuat dengan [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3825220785]SpiffBoy SDK[/url]. [url=https://github.com/Ohhoop/Before-the-Bell/blob/main/LICENSE]Lesen[/url]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3825220364][img]https://ohhoop.github.io/SpiffBoy/i/showcase.gif[/img][/url]
+Memerlukan: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3825220364]SpiffBoy[/url]
+Mod ID: BeforeTheBell

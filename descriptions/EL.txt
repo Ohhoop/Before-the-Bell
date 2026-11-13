@@ -1,0 +1,61 @@
+[img]https://ohhoop.github.io/Before-the-Bell/i/title.png[/img]
+
+Κυρίες και κύριοι... η καμπάνα χτυπά... και χτυπά για [b]εσάς[/b]!
+Σας παρουσιάζουμε το [b]Before the Bell[/b], τη νέα περιπέτεια για το [b]SpiffBoy[/b] σας!
+Γενναίοι ήρωες! Λαμπεροί θησαυροί! Αχρείοι εχθροί και πανίσχυρα boss!
+Εξοπλιστείτε τη μέρα. Αντέξτε τη νύχτα. Κι όταν χτυπήσει η καμπάνα... [i]να είστε έτοιμοι.[/i]
+Ολοκαίνουργια χώρα κάθε φορά που παίζετε! [i]Καμία περιπέτεια δεν μοιάζει με την άλλη.[/i]
+Αποκτήστε τη δική σας σήμερα! [i]Το SpiffBoy πωλείται χωριστά.[/i]
+
+Ένα autobattler roguelite: τρεις πράξεις, ένα boss στο τέλος της καθεμιάς και ένας νέος δρόμος σε κάθε παρτίδα.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-by-day.png[/img]
+[b]Ψωνίστε! Λεηλατήστε! Σφυρηλατήστε! Φτιάξτε τον ήρωα των ονείρων σας![/b]
+Κάθε παρτίδα ξεκινά σε έναν ολοκαίνουργιο χάρτη. Περάστε τις μέρες σας στον δρόμο, επισκεφθείτε εμπόρους, ανοίξτε σεντούκια, περάστε από το σιδηρουργείο και μετατρέψτε μια χούφτα μικροπράγματα σε έναν ήρωα που αξίζει να τον φοβούνται. Δεκάδες αντικείμενα για να βρείτε, να συνδυάσετε και να αναβαθμίσετε, και καμία παρτίδα δεν καταλήγει με το ίδιο build.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-by-day.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-by-night.png[/img]
+[b]Ο ήλιος δύει. Το κυνήγι αρχίζει.[/b]
+Όταν σβήνει το φως, ο χάρτης δεν σας ανήκει πια. Ό,τι κρυβόταν στο δάσος βγαίνει να σας κυνηγήσει, και κάθε βήμα μετράει μέχρι το πρωί. Αντέξτε ως το τέλος, και μια νέα μέρα σας περιμένει.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-by-night.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-the-bell.png[/img]
+[b]Χωρίς μανιασμένο πάτημα κουμπιών. Μόνο εσείς, ο εξοπλισμός σας και η καμπάνα.[/b]
+Οι μάχες εξελίσσονται μόνες τους, χτύπημα με χτύπημα, σε δική τους οθόνη. Δεν κραδαίνετε ποτέ εσείς το σπαθί: ό,τι μαζέψατε στον δρόμο πολεμά για εσάς. Και στο τέλος κάθε πράξης η καμπάνα χτυπά, και κάτι μεγάλο απαντά.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-the-bell.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-the-camp.png[/img]
+[b]Χάστε σήμερα. Γυρίστε πιο δυνατοί αύριο![/b]
+Το να πέφτετε είναι μέρος του ταξιδιού. Κάθε παρτίδα, κερδισμένη ή χαμένη, φέρνει κάτι πίσω στον καταυλισμό: νέους ήρωες με δικά τους κόλπα, νέους θησαυρούς να βρείτε στον δρόμο και νέους τρόπους να προετοιμαστείτε. Κερδίστε, και ο επόμενος δρόμος σκοτεινιάζει.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-the-camp.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-faq.png[/img]
+Q: Τι χρειάζομαι για να παίξω;
+A: Ένα SpiffBoy. Το Before the Bell είναι μια κασέτα για αυτό.
+
+Q: Πού θα βρω την κασέτα;
+A: Κάπου εκεί έξω, όπου αρέσει στις κασέτες του SpiffBoy να κρύβονται.
+
+Q: Λειτουργεί στο multiplayer;
+A: Είναι παιχνίδι για έναν παίκτη και παίζει μια χαρά σε multiplayer servers.
+
+Q: Είναι μεταφρασμένο;
+A: Σε όλες τις γλώσσες που υποστηρίζει το παιχνίδι.
+
+Q: Είναι ασφαλές να το προσθέσω ή να το αφαιρέσω στη μέση ενός save;
+A: Ναι. Αν το αφαιρέσετε, θα χάσετε την κασέτα και το save της.
+
+Q: Από πού ήρθε η ιδέα;
+A: Το [url=https://store.steampowered.com/app/2824490/He_is_Coming/]He is Coming[/url] της Chronocle έδωσε τη σπίθα. Άλλο παιχνίδι, άλλη ιστορία, ίδια αγάπη για το είδος. Δοκιμάστε το!
+
+Μοιραστείτε τη γνώμη σας, αναφορές bug και ιδέες στα σχόλια, τα διαβάζω όλα.
+
+Before the Bell © 2026 Ohhoop. Όλα τα δικαιώματα διατηρούνται. Δημιουργήθηκε με το [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3825220785]SpiffBoy SDK[/url]. [url=https://github.com/Ohhoop/Before-the-Bell/blob/main/LICENSE]Άδεια[/url]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3825220364][img]https://ohhoop.github.io/SpiffBoy/i/showcase.gif[/img][/url]
+Απαιτεί: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3825220364]SpiffBoy[/url]
+Mod ID: BeforeTheBell

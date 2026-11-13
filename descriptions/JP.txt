@@ -1,0 +1,61 @@
+[img]https://ohhoop.github.io/Before-the-Bell/i/title.png[/img]
+
+レディース・アンド・ジェントルメン……鐘が鳴っている……それは[b]キミ[/b]のための鐘だ！
+[b]SpiffBoy[/b]の新たな冒険、[b]Before the Bell[/b]登場！
+勇敢なヒーロー！輝くお宝！凶悪な敵と強大なボス！
+昼は装備を整えろ。夜は耐え抜け。そして鐘が鳴ったら……[i]覚悟を決めろ。[/i]
+遊ぶたびにまったく新しい世界！[i]同じ冒険は二度とない。[/i]
+今すぐ手に入れよう！[i]SpiffBoyは別売りです。[/i]
+
+オートバトラー・ローグライト：全3幕、各幕の最後にボス、そしてランごとに新しい道。
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-by-day.png[/img]
+[b]買って！奪って！鍛えて！夢のヒーローを作り上げろ！[/b]
+ランは毎回まったく新しいマップから始まる。昼は旅をしながら商人を訪ね、宝箱を開け、鍛冶場に立ち寄って、ひと握りのガラクタを恐るべきヒーローに変えよう。見つけて、組み合わせて、強化できるアイテムは数十種類。同じビルドで終わるランは二つとない。
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-by-day.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-by-night.png[/img]
+[b]日が沈む。狩りが始まる。[/b]
+光が消えると、マップはもうキミのものではない。森に潜んでいたものが姿を現してキミを追いかけ、朝まで一歩一歩が勝負だ。乗り切れば、新しい一日が待っている。
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-by-night.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-the-bell.png[/img]
+[b]ボタン連打は不要。キミと、装備と、鐘だけ。[/b]
+バトルは専用の画面で、一撃ずつ自動で進む。キミが剣を振ることはない。旅で集めたすべてが、キミの代わりに戦うのだ。そして各幕の終わりに鐘が鳴り、何か大きなものが応える。
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-the-bell.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-the-camp.png[/img]
+[b]今日負けても、明日はもっと強くなって戻ってこい！[/b]
+倒れるのも旅のうち。勝っても負けても、ランのたびにキャンプへ何かを持ち帰れる。独自の技を持つ新たなヒーロー、旅先で見つかる新たなお宝、そして新たな準備の手段。勝てば、次の道はもっと暗くなる。
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-the-camp.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-faq.png[/img]
+Q: 遊ぶには何が必要ですか？
+A: SpiffBoyです。Before the BellはSpiffBoy用のカセットです。
+
+Q: カセットはどこで見つかりますか？
+A: 外の世界の、SpiffBoyのカセットが隠れていそうなところならどこでも。
+
+Q: マルチプレイで使えますか？
+A: 1人用のゲームですが、マルチプレイのサーバーでも問題なく遊べます。
+
+Q: 翻訳されていますか？
+A: ゲームが対応しているすべての言語に翻訳されています。
+
+Q: プレイ中のセーブに追加・削除しても大丈夫ですか？
+A: はい。削除すると、カセットとそのセーブデータは失われます。
+
+Q: このアイデアはどこから？
+A: きっかけは Chronocle の [url=https://store.steampowered.com/app/2824490/He_is_Coming/]He is Coming[/url]。ゲームも物語も別物、でもこのジャンルへの愛は同じです。ぜひ遊んでみてください！
+
+感想、バグ報告、アイデアなど、お気軽にコメント欄へどうぞ。すべて読んでいます。
+
+Before the Bell © 2026 Ohhoop. All rights reserved. [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3825220785]SpiffBoy SDK[/url]で制作。 [url=https://github.com/Ohhoop/Before-the-Bell/blob/main/LICENSE]ライセンス[/url]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3825220364][img]https://ohhoop.github.io/SpiffBoy/i/showcase.gif[/img][/url]
+必須: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3825220364]SpiffBoy[/url]
+Mod ID: BeforeTheBell

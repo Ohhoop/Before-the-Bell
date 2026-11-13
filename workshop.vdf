@@ -1,0 +1,10 @@
+"workshopitem"
+{
+	"appid"		"108600"
+	"publishedfileid"		"3838972108"
+	"title"		"Before the Bell - A SpiffBoy Game"
+	"visibility"		"0"
+	"contentfolder"		"BeforeTheBell/Contents"
+	"previewfile"		"../Development/art/presentation/thumbnail.gif"
+	"changenote"		"0.1.0: first release"
+}

@@ -1,0 +1,61 @@
+[img]https://ohhoop.github.io/Before-the-Bell/i/title.png[/img]
+
+Bayanlar ve baylar... çan çalıyor... ve [b]sizin[/b] için çalıyor!
+Karşınızda [b]Before the Bell[/b], [b]SpiffBoy[/b]'unuz için yepyeni macera!
+Cesur kahramanlar! Parıl parıl hazineler! İğrenç düşmanlar ve kudretli boss'lar!
+Gündüz donanın. Gece boyunca dayanın. Ve çan çaldığında... [i]hazır olun.[/i]
+Her oynayışınızda yepyeni bir diyar! [i]Hiçbir macera bir öncekine benzemez.[/i]
+Hemen bugün edinin! [i]SpiffBoy ayrı satılır.[/i]
+
+Bir autobattler roguelite: üç perde, her birinin sonunda bir boss ve her turda yeni bir yol.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-by-day.png[/img]
+[b]Satın alın! Ganimet toplayın! Demir dövün! Hayallerinizdeki kahramanı yaratın![/b]
+Her tur yepyeni bir haritada başlar. Günlerinizi yollarda geçirin, tüccarları ziyaret edin, sandıkları açın, demirhaneye uğrayın ve bir avuç ıvır zıvırı korkulacak bir kahramana dönüştürün. Bulunacak, birleştirilecek ve geliştirilecek düzinelerce eşya var ve hiçbir tur aynı build ile bitmez.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-by-day.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-by-night.png[/img]
+[b]Güneş batıyor. Av başlıyor.[/b]
+Işık sönünce harita artık sizin değildir. Ormanda saklanan şey sizi kovalamaya çıkar ve sabaha kadar her adım önemlidir. Dayanabilirseniz yeni bir gün sizi bekliyor.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-by-night.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-the-bell.png[/img]
+[b]Tuşlara abanmak yok. Sadece siz, teçhizatınız ve çan.[/b]
+Savaşlar kendi kendine, darbe darbe, kendine ait bir ekranda geçer. Kılıcı asla siz sallamazsınız: yolda topladığınız her şey sizin için savaşır. Ve her perdenin sonunda çan çalar ve büyük bir şey cevap verir.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-the-bell.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-the-camp.png[/img]
+[b]Bugün kaybedin. Yarın daha güçlü dönün![/b]
+Düşmek yolculuğun bir parçasıdır. Kazanılsın ya da kaybedilsin, her tur kampa bir şey getirir: kendi numaraları olan yeni kahramanlar, yolda bulunacak yeni hazineler ve hazırlanmanın yeni yolları. Kazanın, bir sonraki yol daha da kararır.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-the-camp.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-faq.png[/img]
+Q: Oynamak için neye ihtiyacım var?
+A: Bir SpiffBoy'a. Before the Bell onun için bir kartuş.
+
+Q: Kartuşu nerede bulurum?
+A: Dışarıda bir yerlerde, SpiffBoy kartuşlarının saklanmayı sevdiği her yerde.
+
+Q: Çok oyunculu modda çalışıyor mu?
+A: Tek oyunculu bir oyun ve çok oyunculu sunucularda sorunsuz çalışıyor.
+
+Q: Çevirisi var mı?
+A: Oyunun desteklediği tüm dillerde.
+
+Q: Bir kaydın ortasında eklemek veya kaldırmak güvenli mi?
+A: Evet. Kaldırırsanız kartuşu ve kaydını kaybedersiniz.
+
+Q: Fikir nereden çıktı?
+A: Fikrin kıvılcımı Chronocle'ın [url=https://store.steampowered.com/app/2824490/He_is_Coming/]He is Coming[/url] oyunu oldu. Farklı oyun, farklı hikâye, türe aynı sevgi. Mutlaka deneyin!
+
+Geri bildirimlerinizi, hata raporlarınızı ve fikirlerinizi yorumlar bölümünde paylaşmaktan çekinmeyin, hepsini okuyorum.
+
+Before the Bell © 2026 Ohhoop. Tüm hakları saklıdır. [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3825220785]SpiffBoy SDK[/url] ile yapıldı. [url=https://github.com/Ohhoop/Before-the-Bell/blob/main/LICENSE]Lisans[/url]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3825220364][img]https://ohhoop.github.io/SpiffBoy/i/showcase.gif[/img][/url]
+Gerekli: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3825220364]SpiffBoy[/url]
+Mod ID: BeforeTheBell

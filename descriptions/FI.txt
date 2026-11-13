@@ -1,0 +1,61 @@
+[img]https://ohhoop.github.io/Before-the-Bell/i/title.png[/img]
+
+Hyvät naiset ja herrat... kello soi... ja se soi [b]sinulle[/b]!
+Tässä se on: [b]Before the Bell[/b], uusi seikkailu [b]SpiffBoyllesi[/b]!
+Urheita sankareita! Kimaltelevia aarteita! Ilkeitä vihollisia ja mahtavia pomoja!
+Varustaudu päivällä. Pidä pintasi yöllä. Ja kun kello lyö... [i]ole valmis.[/i]
+Upouusi maa joka pelikerralla! [i]Ei kahta samanlaista seikkailua.[/i]
+Hanki omasi tänään! [i]SpiffBoy myydään erikseen.[/i]
+
+Autobattler-roguelite: kolme näytöstä, pomo jokaisen lopussa ja uusi tie joka kierroksella.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-by-day.png[/img]
+[b]Osta! Ryöstä! Tao! Rakenna unelmiesi sankari![/b]
+Jokainen kierros alkaa upouudelta kartalta. Vietä päiväsi tien päällä, käy kauppiailla, avaa arkkuja ja poikkea pajassa, ja muuta kourallinen rojua sankariksi, jota kannattaa pelätä. Kymmeniä esineitä löydettäväksi, yhdisteltäväksi ja paranneltavaksi, eikä kahdesta kierroksesta synny samaa buildia.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-by-day.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-by-night.png[/img]
+[b]Aurinko laskee. Jahti alkaa.[/b]
+Kun valo hiipuu, kartta ei ole enää sinun. Se, mikä piileskeli metsässä, tulee esiin jahtaamaan sinua, ja jokainen askel ratkaisee aamuun asti. Kestä loppuun asti, niin uusi päivä odottaa.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-by-night.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-the-bell.png[/img]
+[b]Ei nappien hakkaamista. Vain sinä, varusteesi ja kello.[/b]
+Taistelut etenevät itsestään, isku iskulta, omalla ruudullaan. Et koskaan heilauta miekkaa itse: kaikki, mitä keräsit matkan varrelta, taistelee puolestasi. Ja jokaisen näytöksen lopussa kello lyö, ja jokin suuri vastaa.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-the-bell.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-the-camp.png[/img]
+[b]Häviä tänään. Palaa huomenna vahvempana![/b]
+Kaatuminen kuuluu matkaan. Jokainen kierros, voitettu tai hävitty, tuo leiriin jotain: uusia sankareita omine temppuineen, uusia aarteita löydettäväksi tien päältä ja uusia tapoja valmistautua. Voita, niin seuraava tie synkkenee.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-the-camp.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-faq.png[/img]
+Q: Mitä tarvitsen pelaamiseen?
+A: SpiffBoyn. Before the Bell on sille tehty pelikasetti.
+
+Q: Mistä löydän pelikasetin?
+A: Jostain tuolta, mistä SpiffBoyn pelikasetit nyt tykkäävätkin piileskellä.
+
+Q: Toimiiko se moninpelissä?
+A: Se on yksinpeli, ja se toimii hyvin moninpelipalvelimilla.
+
+Q: Onko se käännetty?
+A: Kaikille kielille, joita peli tukee.
+
+Q: Onko turvallista lisätä tai poistaa se kesken tallennuksen?
+A: Kyllä. Jos poistat sen, menetät pelikasetin ja sen tallennuksen.
+
+Q: Mistä idea tuli?
+A: Chronoclen [url=https://store.steampowered.com/app/2824490/He_is_Coming/]He is Coming[/url] sytytti idean. Eri peli, eri tarina, sama rakkaus lajityyppiin. Kokeile sitä!
+
+Jaa palautteesi, bugiraporttisi ja ideasi kommenttiosiossa, luen kaiken.
+
+Before the Bell © 2026 Ohhoop. Kaikki oikeudet pidätetään. Tehty työkalulla [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3825220785]SpiffBoy SDK[/url]. [url=https://github.com/Ohhoop/Before-the-Bell/blob/main/LICENSE]Lisenssi[/url]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3825220364][img]https://ohhoop.github.io/SpiffBoy/i/showcase.gif[/img][/url]
+Vaatii: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3825220364]SpiffBoy[/url]
+Mod ID: BeforeTheBell

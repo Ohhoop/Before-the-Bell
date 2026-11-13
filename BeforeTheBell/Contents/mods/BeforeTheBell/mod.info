@@ -1,0 +1,8 @@
+id=BeforeTheBell
+name=Before the Bell
+description=A SpiffBoy cartridge: gear up a hero, roam a cursed land and face what comes when the bell tolls.
+modversion=0.1.0
+require=\SpiffBoy
+poster=poster.png
+icon=poster.png
+versionMin=42.0

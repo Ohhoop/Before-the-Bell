@@ -1,0 +1,61 @@
+[img]https://ohhoop.github.io/Before-the-Bell/i/title.png[/img]
+
+Thưa quý vị... tiếng chuông đang vang lên... và nó vang lên vì [b]bạn[/b]!
+Xin giới thiệu [b]Before the Bell[/b], cuộc phiêu lưu mới dành cho chiếc [b]SpiffBoy[/b] của bạn!
+Anh hùng quả cảm! Kho báu lấp lánh! Kẻ thù gớm ghiếc và những tên trùm hùng mạnh!
+Trang bị ban ngày. Trụ vững qua đêm. Và khi chuông ngân... [i]hãy sẵn sàng.[/i]
+Một vùng đất hoàn toàn mới mỗi lần chơi! [i]Không có hai cuộc phiêu lưu nào giống nhau.[/i]
+Sở hữu ngay hôm nay! [i]SpiffBoy bán riêng.[/i]
+
+Một game roguelite tự động chiến đấu: ba hồi, một tên trùm ở cuối mỗi hồi, và một con đường mới mỗi lượt chơi.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-by-day.png[/img]
+[b]Mua sắm! Nhặt đồ! Rèn đúc! Tạo nên người hùng trong mơ![/b]
+Mỗi lượt chơi bắt đầu trên một bản đồ hoàn toàn mới. Dành những ngày trên đường, ghé thăm thương nhân, mở rương và ghé lò rèn, rồi biến một nắm đồ lặt vặt thành một người hùng đáng gờm. Hàng chục vật phẩm để tìm, kết hợp và nâng cấp, và không có hai lượt chơi nào kết thúc với cùng một lối build.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-by-day.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-by-night.png[/img]
+[b]Mặt trời lặn. Cuộc săn bắt đầu.[/b]
+Khi ánh sáng tắt dần, bản đồ không còn là của bạn nữa. Những gì ẩn trong rừng sẽ ra đuổi theo bạn, và mỗi bước đi đều quan trọng cho đến sáng. Trụ được đến lúc đó, một ngày mới đang chờ đón bạn.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-by-night.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-the-bell.png[/img]
+[b]Không cần bấm nút liên hồi. Chỉ có bạn, trang bị của bạn và tiếng chuông.[/b]
+Các trận đấu tự diễn ra, từng đòn một, trên một màn hình riêng. Bạn không bao giờ phải vung kiếm: mọi thứ bạn thu thập trên đường sẽ chiến đấu thay bạn. Và cuối mỗi hồi, chuông ngân lên, và một thứ gì đó khổng lồ đáp lời.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-the-bell.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-the-camp.png[/img]
+[b]Thua hôm nay. Trở lại mạnh hơn ngày mai![/b]
+Gục ngã là một phần của hành trình. Mỗi lượt chơi, dù thắng hay thua, đều mang về trại một thứ gì đó: những người hùng mới với chiêu trò riêng, những kho báu mới để tìm trên đường, và những cách mới để chuẩn bị. Chiến thắng, và con đường tiếp theo sẽ tăm tối hơn.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-the-camp.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-faq.png[/img]
+Q: Tôi cần gì để chơi?
+A: Một chiếc SpiffBoy. Before the Bell là một băng game dành cho nó.
+
+Q: Tôi tìm băng game ở đâu?
+A: Ngoài kia, ở bất cứ nơi nào băng game SpiffBoy thích ẩn nấp.
+
+Q: Có chơi được ở chế độ nhiều người không?
+A: Đây là trò chơi một người, và chạy tốt trên máy chủ nhiều người chơi.
+
+Q: Có được dịch không?
+A: Sang mọi ngôn ngữ mà game hỗ trợ.
+
+Q: Thêm hoặc gỡ mod giữa chừng bản lưu có an toàn không?
+A: Có. Nếu gỡ nó, bạn sẽ mất băng game và bản lưu của nó.
+
+Q: Ý tưởng đến từ đâu?
+A: [url=https://store.steampowered.com/app/2824490/He_is_Coming/]He is Coming[/url] của Chronocle đã khơi nguồn ý tưởng. Trò chơi khác, câu chuyện khác, cùng một tình yêu với thể loại. Hãy chơi thử nhé!
+
+Cứ thoải mái chia sẻ góp ý, báo lỗi và ý tưởng trong phần bình luận, tôi đọc hết.
+
+Before the Bell © 2026 Ohhoop. Bảo lưu mọi quyền. Được làm bằng [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3825220785]SpiffBoy SDK[/url]. [url=https://github.com/Ohhoop/Before-the-Bell/blob/main/LICENSE]Giấy phép[/url]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3825220364][img]https://ohhoop.github.io/SpiffBoy/i/showcase.gif[/img][/url]
+Yêu cầu: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3825220364]SpiffBoy[/url]
+Mod ID: BeforeTheBell

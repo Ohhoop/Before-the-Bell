@@ -1,0 +1,61 @@
+[img]https://ohhoop.github.io/Before-the-Bell/i/title.png[/img]
+
+Mesdames et messieurs... la cloche sonne... et elle sonne pour [b]vous[/b] !
+Voici [b]Before the Bell[/b], la nouvelle aventure pour votre [b]SpiffBoy[/b] !
+Des héros courageux ! Des trésors étincelants ! D'affreux ennemis et des boss redoutables !
+Équipez-vous le jour. Tenez bon la nuit. Et quand la cloche sonnera... [i]soyez prêts.[/i]
+Un tout nouveau pays à chaque partie ! [i]Jamais deux fois la même aventure.[/i]
+Procurez-vous la vôtre dès aujourd'hui ! [i]SpiffBoy vendue séparément.[/i]
+
+Un roguelite autobattler : trois actes, un boss à la fin de chacun, et une nouvelle route à chaque partie.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-by-day.png[/img]
+[b]Achetez ! Pillez ! Forgez ! Créez le héros de vos rêves ![/b]
+Chaque partie commence sur une toute nouvelle carte. Passez vos journées sur la route, rendez visite aux marchands, ouvrez des coffres, faites un détour par la forge, et transformez une poignée de bric-à-brac en un héros redoutable. Des dizaines d'objets à trouver, combiner et améliorer, et jamais deux parties ne finissent avec le même build.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-by-day.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-by-night.png[/img]
+[b]Le soleil se couche. La chasse commence.[/b]
+Quand la lumière s'éteint, la carte ne vous appartient plus. Ce qui se cachait dans les bois sort pour vous traquer, et chaque pas compte jusqu'au matin. Tenez jusqu'au bout, et un nouveau jour vous attend.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-by-night.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-the-bell.png[/img]
+[b]Pas de boutons à marteler. Juste vous, votre équipement et la cloche.[/b]
+Les combats se déroulent tout seuls, coup après coup, sur un écran rien qu'à eux. Vous ne maniez jamais l'épée : tout ce que vous avez réuni sur la route se bat pour vous. Et à la fin de chaque acte, la cloche sonne, et quelque chose d'énorme lui répond.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-the-bell.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-the-camp.png[/img]
+[b]Perdez aujourd'hui. Revenez plus fort demain ![/b]
+Tomber fait partie du voyage. Chaque partie, gagnée ou perdue, rapporte quelque chose au camp : de nouveaux héros avec leurs propres astuces, de nouveaux trésors à trouver sur la route et de nouvelles façons de se préparer. Gagnez, et la route suivante devient plus sombre.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-the-camp.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-faq.png[/img]
+Q : De quoi ai-je besoin pour jouer ?
+A : D'une SpiffBoy. Before the Bell est une cassette pour elle.
+
+Q : Où trouver la cassette ?
+A : Quelque part, là où les cassettes SpiffBoy aiment se cacher.
+
+Q : Est-ce que ça fonctionne en multijoueur ?
+A : C'est un jeu à un joueur, et il fonctionne très bien sur les serveurs multijoueurs.
+
+Q : Est-ce traduit ?
+A : Dans toutes les langues prises en charge par le jeu.
+
+Q : Puis-je l'ajouter ou le retirer en cours de partie sans risque ?
+A : Oui. Si vous le retirez, vous perdrez la cassette et sa sauvegarde.
+
+Q : D'où vient l'idée ?
+A : [url=https://store.steampowered.com/app/2824490/He_is_Coming/]He is Coming[/url], de Chronocle, a donné l'étincelle. Autre jeu, autre histoire, même amour du genre. Allez l'essayer !
+
+N'hésitez pas à partager vos commentaires, rapports de bugs et idées dans la section commentaires, je lis tout.
+
+Before the Bell © 2026 Ohhoop. Tous droits réservés. Créé avec le [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3825220785]SpiffBoy SDK[/url]. [url=https://github.com/Ohhoop/Before-the-Bell/blob/main/LICENSE]Licence[/url]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3825220364][img]https://ohhoop.github.io/SpiffBoy/i/showcase.gif[/img][/url]
+Requiert : [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3825220364]SpiffBoy[/url]
+Mod ID: BeforeTheBell

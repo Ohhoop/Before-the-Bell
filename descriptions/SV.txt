@@ -1,0 +1,61 @@
+[img]https://ohhoop.github.io/Before-the-Bell/i/title.png[/img]
+
+Mina damer och herrar... klockan ringer... och den ringer för [b]dig[/b]!
+Vi presenterar [b]Before the Bell[/b], det nya äventyret till din [b]SpiffBoy[/b]!
+Modiga hjältar! Glänsande skatter! Otäcka fiender och mäktiga bossar!
+Rusta upp dig om dagen. Håll ut genom natten. Och när klockan klämtar... [i]var redo.[/i]
+Ett helt nytt land varje gång du spelar! [i]Inga två äventyr är likadana.[/i]
+Skaffa din i dag! [i]SpiffBoy säljs separat.[/i]
+
+En autobattler-roguelite: tre akter, en boss i slutet av varje och en ny väg varje runda.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-by-day.png[/img]
+[b]Handla! Plundra! Smid! Bygg hjälten du drömmer om![/b]
+Varje runda börjar på en helt ny karta. Tillbringa dagarna på vägen, besök handlare, öppna kistor och titta in i smedjan, och förvandla en handfull småprylar till en hjälte att frukta. Dussintals föremål att hitta, kombinera och uppgradera, och inga två rundor slutar med samma bygge.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-by-day.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-by-night.png[/img]
+[b]Solen går ner. Jakten börjar.[/b]
+När ljuset försvinner är kartan inte längre din. Det som gömde sig i skogen kommer fram för att jaga dig, och varje steg räknas fram till morgonen. Klarar du dig igenom väntar en ny dag.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-by-night.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-the-bell.png[/img]
+[b]Inga knappar att hamra på. Bara du, din utrustning och klockan.[/b]
+Striderna sköter sig själva, slag för slag, på en egen skärm. Du svingar aldrig svärdet: allt du samlat på vägen slåss åt dig. Och i slutet av varje akt klämtar klockan, och något stort svarar.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-the-bell.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-the-camp.png[/img]
+[b]Förlora i dag. Kom tillbaka starkare i morgon![/b]
+Att falla är en del av resan. Varje runda, vunnen eller förlorad, för med sig något tillbaka till lägret: nya hjältar med egna knep, nya skatter att hitta på vägen och nya sätt att förbereda sig. Vinn, och nästa väg blir mörkare.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-the-camp.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-faq.png[/img]
+Q: Vad behöver jag för att spela?
+A: En SpiffBoy. Before the Bell är en spelkassett till den.
+
+Q: Var hittar jag spelkassetten?
+A: Där ute, var helst SpiffBoy-kassetter gillar att gömma sig.
+
+Q: Fungerar det i multiplayer?
+A: Det är ett enspelarspel, och det fungerar fint på multiplayerservrar.
+
+Q: Är det översatt?
+A: Till alla språk som spelet stöder.
+
+Q: Är det säkert att lägga till eller ta bort mitt i ett sparat spel?
+A: Ja. Om du tar bort det förlorar du spelkassetten och dess sparade spel.
+
+Q: Var kom idén ifrån?
+A: [url=https://store.steampowered.com/app/2824490/He_is_Coming/]He is Coming[/url] från Chronocle tände idén. Annat spel, annan historia, samma kärlek till genren. Testa det!
+
+Dela gärna din feedback, buggrapporter och idéer i kommentarsfältet, jag läser allt.
+
+Before the Bell © 2026 Ohhoop. Alla rättigheter förbehållna. Gjort med [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3825220785]SpiffBoy SDK[/url]. [url=https://github.com/Ohhoop/Before-the-Bell/blob/main/LICENSE]Licens[/url]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3825220364][img]https://ohhoop.github.io/SpiffBoy/i/showcase.gif[/img][/url]
+Kräver: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3825220364]SpiffBoy[/url]
+Mod ID: BeforeTheBell

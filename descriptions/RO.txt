@@ -1,0 +1,61 @@
+[img]https://ohhoop.github.io/Before-the-Bell/i/title.png[/img]
+
+Doamnelor și domnilor... clopotul bate... și bate pentru [b]tine[/b]!
+Vă prezentăm [b]Before the Bell[/b], noua aventură pentru [b]SpiffBoy[/b]-ul tău!
+Eroi curajoși! Comori strălucitoare! Dușmani hidoși și boși puternici!
+Echipează-te ziua. Rezistă peste noapte. Și când bate clopotul... [i]fii pregătit.[/i]
+Un tărâm nou-nouț de fiecare dată când joci! [i]Nicio aventură nu seamănă cu alta.[/i]
+Ia-l pe al tău chiar azi! [i]SpiffBoy se vinde separat.[/i]
+
+Un roguelite autobattler: trei acte, câte un boss la finalul fiecăruia și un drum nou la fiecare partidă.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-by-day.png[/img]
+[b]Cumpără! Adună prada! Forjează! Construiește eroul visurilor tale![/b]
+Fiecare partidă începe pe o hartă nou-nouță. Petrece-ți zilele pe drum, vizitează negustori, deschide cufere, treci pe la forjă și transformă o mână de mărunțișuri într-un erou de temut. Zeci de obiecte de găsit, de combinat și de îmbunătățit, și nicio partidă nu se termină cu același build.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-by-day.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-by-night.png[/img]
+[b]Soarele apune. Vânătoarea începe.[/b]
+Când lumina se stinge, harta nu mai e a ta. Ce se ascundea în pădure iese să te urmărească, și fiecare pas contează până dimineață. Rezistă până atunci, și te așteaptă o nouă zi.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-by-night.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-the-bell.png[/img]
+[b]Fără butoane de apăsat la nesfârșit. Doar tu, echipamentul tău și clopotul.[/b]
+Luptele se desfășoară singure, lovitură cu lovitură, pe un ecran doar al lor. Nu mânuiești niciodată sabia: tot ce ai adunat pe drum luptă pentru tine. Iar la finalul fiecărui act bate clopotul, și ceva mare răspunde.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-the-bell.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-the-camp.png[/img]
+[b]Pierzi azi. Revii mai puternic mâine![/b]
+Căderea face parte din călătorie. Fiecare partidă, câștigată sau pierdută, aduce ceva înapoi în tabără: eroi noi cu propriile trucuri, comori noi de găsit pe drum și noi moduri de a te pregăti. Câștigă, și următorul drum devine mai întunecat.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-the-camp.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-faq.png[/img]
+Q: De ce am nevoie ca să joc?
+A: De un SpiffBoy. Before the Bell este un cartuș pentru el.
+
+Q: Unde găsesc cartușul?
+A: Pe undeva, oriunde le place cartușelor SpiffBoy să se ascundă.
+
+Q: Merge în multiplayer?
+A: Este un joc pentru un singur jucător și merge fără probleme pe serverele multiplayer.
+
+Q: Este tradus?
+A: În toate limbile pe care le suportă jocul.
+
+Q: E sigur să-l adaug sau să-l scot în mijlocul unei salvări?
+A: Da. Dacă îl scoți, vei pierde cartușul și salvarea lui.
+
+Q: De unde a venit ideea?
+A: [url=https://store.steampowered.com/app/2824490/He_is_Coming/]He is Coming[/url], de la Chronocle, a aprins scânteia. Alt joc, altă poveste, aceeași dragoste pentru gen. Încercați-l!
+
+Nu ezita să lași păreri, rapoarte de bug-uri și idei în secțiunea de comentarii, citesc tot.
+
+Before the Bell © 2026 Ohhoop. Toate drepturile rezervate. Creat cu [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3825220785]SpiffBoy SDK[/url]. [url=https://github.com/Ohhoop/Before-the-Bell/blob/main/LICENSE]Licență[/url]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3825220364][img]https://ohhoop.github.io/SpiffBoy/i/showcase.gif[/img][/url]
+Necesită: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3825220364]SpiffBoy[/url]
+Mod ID: BeforeTheBell

@@ -1,0 +1,61 @@
+[img]https://ohhoop.github.io/Before-the-Bell/i/title.png[/img]
+
+Hölgyeim és uraim... szól a harang... és [b]érted[/b] szól!
+Íme a [b]Before the Bell[/b], az új kaland a [b]SpiffBoy[/b] konzolodra!
+Bátor hősök! Csillogó kincsek! Gonosz ellenfelek és hatalmas főellenségek!
+Nappal szereld fel magad. Éjjel tarts ki. És amikor megkondul a harang... [i]légy készen.[/i]
+Minden játéknál vadonatúj vidék! [i]Nincs két egyforma kaland.[/i]
+Szerezd be még ma! [i]A SpiffBoy külön kapható.[/i]
+
+Autobattler roguelite: három felvonás, mindegyik végén egy főellenség, és minden menetben új út.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-by-day.png[/img]
+[b]Vásárolj! Zsákmányolj! Kovácsolj! Építsd meg álmaid hősét![/b]
+Minden menet vadonatúj térképen indul. Töltsd a napjaidat úton, keresd fel a kereskedőket, nyiss ládákat, ugorj be a kovácsműhelybe, és varázsolj egy maréknyi limlomból rettegett hőst. Több tucat tárgy vár arra, hogy megtaláld, kombináld és fejleszd, és nincs két menet, amely ugyanazzal a felszereléssel érne véget.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-by-day.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-by-night.png[/img]
+[b]Lemegy a nap. Kezdődik a hajsza.[/b]
+Amikor kihuny a fény, a térkép már nem a tiéd. Ami az erdőben rejtőzött, előjön és üldözőbe vesz, és reggelig minden lépés számít. Ha kitartasz, új nap vár rád.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-by-night.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-the-bell.png[/img]
+[b]Semmi gombnyomkodás. Csak te, a felszerelésed és a harang.[/b]
+A csaták maguktól zajlanak, csapásról csapásra, a saját képernyőjükön. Soha nem te suhintod a kardot: minden, amit az úton összegyűjtöttél, harcol helyetted. És minden felvonás végén megkondul a harang, és valami nagy felel rá.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-the-bell.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-the-camp.png[/img]
+[b]Ma elbuksz. Holnap erősebben térsz vissza![/b]
+Az elesés is az út része. Minden menet, akár győzelem, akár vereség, hoz valamit a táborba: új hősöket saját trükkjeikkel, új kincseket, amelyeket az úton találhatsz, és új módokat a felkészülésre. Ha győzöl, a következő út sötétebb lesz.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-the-camp.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-faq.png[/img]
+Q: Mi kell a játékhoz?
+A: Egy SpiffBoy. A Before the Bell egy játékkazetta hozzá.
+
+Q: Hol találom a játékkazettát?
+A: Odakint, bárhol, ahol a SpiffBoy játékkazetták szeretnek elbújni.
+
+Q: Működik többjátékos módban?
+A: Egyjátékos játék, és többjátékos szervereken is gond nélkül fut.
+
+Q: Le van fordítva?
+A: A játék által támogatott összes nyelvre.
+
+Q: Biztonságos egy meglévő mentés közben hozzáadni vagy eltávolítani?
+A: Igen. Ha eltávolítod, elveszíted a játékkazettát és a mentését.
+
+Q: Honnan jött az ötlet?
+A: A Chronocle [url=https://store.steampowered.com/app/2824490/He_is_Coming/]He is Coming[/url] című játéka adta a szikrát. Más játék, más történet, ugyanaz a szeretet a műfaj iránt. Próbáld ki!
+
+Nyugodtan írd meg a visszajelzéseidet, hibajelentéseidet és ötleteidet a hozzászólásokban, mindent elolvasok.
+
+Before the Bell © 2026 Ohhoop. Minden jog fenntartva. Készült a [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3825220785]SpiffBoy SDK[/url] segítségével. [url=https://github.com/Ohhoop/Before-the-Bell/blob/main/LICENSE]Licenc[/url]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3825220364][img]https://ohhoop.github.io/SpiffBoy/i/showcase.gif[/img][/url]
+Szükséges: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3825220364]SpiffBoy[/url]
+Mod ID: BeforeTheBell

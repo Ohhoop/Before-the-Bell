@@ -1,0 +1,61 @@
+[img]https://ohhoop.github.io/Before-the-Bell/i/title.png[/img]
+
+สุภาพบุรุษและสุภาพสตรี... ระฆังกำลังดัง... และมันดังเพื่อ[b]คุณ[/b]!
+ขอแนะนำ [b]Before the Bell[/b] การผจญภัยใหม่สำหรับ [b]SpiffBoy[/b] ของคุณ!
+ฮีโร่ผู้กล้า! สมบัติแวววาว! ศัตรูชั่วร้ายและบอสสุดโหด!
+เตรียมพร้อมตอนกลางวัน ยืนหยัดตลอดคืน และเมื่อระฆังดัง... [i]จงพร้อม[/i]
+ดินแดนใหม่เอี่ยมทุกครั้งที่เล่น! [i]ไม่มีการผจญภัยไหนซ้ำกัน[/i]
+รีบเป็นเจ้าของวันนี้! [i]SpiffBoy ขายแยก[/i]
+
+เกม roguelite ต่อสู้อัตโนมัติ: สามองก์ บอสท้ายแต่ละองก์ และเส้นทางใหม่ทุกรอบ
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-by-day.png[/img]
+[b]ช้อป! เก็บของ! ตีเหล็ก! สร้างฮีโร่ในฝัน![/b]
+ทุกรอบเริ่มบนแผนที่ใหม่เอี่ยม ใช้เวลากลางวันบนถนน แวะหาพ่อค้า เปิดหีบ แวะโรงตีเหล็ก แล้วเปลี่ยนของจิปาถะกำมือเดียวให้กลายเป็นฮีโร่ที่น่าเกรงขาม ไอเท็มหลายสิบชิ้นให้หา ผสม และอัปเกรด และไม่มีรอบไหนจบด้วยบิลด์เดียวกัน
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-by-day.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-by-night.png[/img]
+[b]พระอาทิตย์ตก การล่าเริ่มขึ้น[/b]
+เมื่อแสงลับไป แผนที่ก็ไม่ใช่ของคุณอีกต่อไป สิ่งที่ซ่อนอยู่ในป่าจะออกมาไล่ล่าคุณ และทุกก้าวมีความหมายจนถึงเช้า ผ่านไปได้ วันใหม่ก็รออยู่
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-by-night.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-the-bell.png[/img]
+[b]ไม่ต้องรัวปุ่ม มีแค่คุณ อุปกรณ์ของคุณ และระฆัง[/b]
+การต่อสู้ดำเนินไปเอง ทีละหมัด บนหน้าจอของมันเอง คุณไม่ต้องเหวี่ยงดาบเลย: ทุกอย่างที่เก็บมาระหว่างทางจะสู้แทนคุณ และเมื่อจบแต่ละองก์ ระฆังจะดัง แล้วบางสิ่งที่ยิ่งใหญ่จะตอบรับ
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-the-bell.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-the-camp.png[/img]
+[b]แพ้วันนี้ กลับมาแกร่งกว่าเดิมพรุ่งนี้![/b]
+การล้มเป็นส่วนหนึ่งของการเดินทาง ทุกรอบไม่ว่าแพ้หรือชนะ จะนำบางอย่างกลับมาที่แคมป์: ฮีโร่ใหม่ที่มีลูกเล่นของตัวเอง สมบัติใหม่ให้หาระหว่างทาง และวิธีใหม่ในการเตรียมตัว ชนะแล้ว เส้นทางถัดไปจะมืดลงอีก
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-the-camp.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-faq.png[/img]
+Q: ต้องมีอะไรถึงจะเล่นได้?
+A: SpiffBoy หนึ่งเครื่อง Before the Bell คือตลับเกมสำหรับเครื่องนี้
+
+Q: หาตลับเกมได้ที่ไหน?
+A: ข้างนอกนั่น ที่ไหนก็ได้ที่ตลับ SpiffBoy ชอบไปซ่อน
+
+Q: เล่นแบบผู้เล่นหลายคนได้ไหม?
+A: เป็นเกมผู้เล่นคนเดียว และเล่นบนเซิร์ฟเวอร์ผู้เล่นหลายคนได้ไม่มีปัญหา
+
+Q: มีแปลภาษาไหม?
+A: ทุกภาษาที่เกมรองรับ
+
+Q: เพิ่มหรือลบกลางเซฟได้อย่างปลอดภัยไหม?
+A: ได้ ถ้าลบ ตลับเกมและเซฟของมันจะหายไป
+
+Q: ไอเดียนี้มาจากไหน?
+A: [url=https://store.steampowered.com/app/2824490/He_is_Coming/]He is Coming[/url] ของ Chronocle คือจุดประกายไอเดีย เกมต่างกัน เรื่องราวต่างกัน แต่รักแนวเกมนี้เหมือนกัน ลองเล่นดูนะ!
+
+คอมเมนต์ความเห็น บั๊ก และไอเดียได้ ผมอ่านทุกข้อความ
+
+Before the Bell © 2026 Ohhoop. สงวนลิขสิทธิ์ สร้างด้วย [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3825220785]SpiffBoy SDK[/url] [url=https://github.com/Ohhoop/Before-the-Bell/blob/main/LICENSE]สัญญาอนุญาต[/url]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3825220364][img]https://ohhoop.github.io/SpiffBoy/i/showcase.gif[/img][/url]
+ต้องมี: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3825220364]SpiffBoy[/url]
+Mod ID: BeforeTheBell

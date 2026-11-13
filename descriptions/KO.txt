@@ -1,0 +1,61 @@
+[img]https://ohhoop.github.io/Before-the-Bell/i/title.png[/img]
+
+신사 숙녀 여러분... 종이 울립니다... 바로 [b]당신[/b]을 위해!
+[b]SpiffBoy[/b]를 위한 새로운 모험, [b]Before the Bell[/b]을 소개합니다!
+용감한 영웅들! 빛나는 보물! 사악한 적과 강력한 보스!
+낮에는 장비를 갖추세요. 밤에는 끝까지 버티세요. 그리고 종이 울리면... [i]각오하세요.[/i]
+플레이할 때마다 완전히 새로운 세계! [i]똑같은 모험은 없습니다.[/i]
+지금 바로 장만하세요! [i]SpiffBoy는 별도 판매입니다.[/i]
+
+오토배틀러 로그라이트: 세 개의 막, 각 막의 끝에 기다리는 보스, 그리고 매 런마다 새로운 길.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-by-day.png[/img]
+[b]구매! 약탈! 단조! 꿈꾸던 영웅을 만들어 보세요![/b]
+모든 런은 완전히 새로운 맵에서 시작됩니다. 낮에는 길을 떠나 상인을 찾고, 상자를 열고, 대장간에 들러 한 줌의 잡동사니를 모두가 두려워할 영웅으로 바꿔 보세요. 찾고, 조합하고, 강화할 아이템이 수십 가지, 같은 빌드로 끝나는 런은 하나도 없습니다.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-by-day.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-by-night.png[/img]
+[b]해가 집니다. 사냥이 시작됩니다.[/b]
+빛이 사라지면 맵은 더 이상 당신의 것이 아닙니다. 숲에 숨어 있던 것들이 나와 당신을 쫓고, 아침까지 한 걸음 한 걸음이 중요합니다. 끝까지 버텨 내면 새로운 하루가 기다립니다.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-by-night.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-the-bell.png[/img]
+[b]버튼 연타는 필요 없습니다. 당신과 장비, 그리고 종뿐.[/b]
+전투는 전용 화면에서 한 방 한 방 저절로 진행됩니다. 당신이 검을 휘두를 일은 없습니다. 길에서 모은 모든 것이 당신을 대신해 싸웁니다. 그리고 막이 끝날 때마다 종이 울리고, 무언가 거대한 것이 응답합니다.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-the-bell.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-the-camp.png[/img]
+[b]오늘 지더라도, 내일 더 강해져서 돌아오세요![/b]
+쓰러지는 것도 여정의 일부입니다. 이기든 지든, 모든 런은 캠프에 무언가를 가져옵니다. 저마다의 비기를 가진 새로운 영웅, 길에서 찾을 새로운 보물, 그리고 새로운 준비 방법. 승리하면 다음 길은 더 어두워집니다.
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-the-camp.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-faq.png[/img]
+Q: 플레이하려면 무엇이 필요한가요?
+A: SpiffBoy가 필요합니다. Before the Bell은 SpiffBoy용 카트리지입니다.
+
+Q: 카트리지는 어디서 찾나요?
+A: 바깥 어딘가, SpiffBoy 카트리지가 숨어 있기 좋아하는 곳이라면 어디든요.
+
+Q: 멀티플레이에서 작동하나요?
+A: 1인용 게임이며, 멀티플레이 서버에서도 문제없이 플레이할 수 있습니다.
+
+Q: 번역되어 있나요?
+A: 게임이 지원하는 모든 언어로 번역되어 있습니다.
+
+Q: 진행 중인 세이브에 추가하거나 제거해도 안전한가요?
+A: 네. 제거하면 카트리지와 그 세이브 데이터를 잃게 됩니다.
+
+Q: 아이디어는 어디서 왔나요?
+A: Chronocle의 [url=https://store.steampowered.com/app/2824490/He_is_Coming/]He is Coming[/url]이(가) 아이디어의 불씨가 되었습니다. 다른 게임, 다른 이야기, 장르를 향한 같은 사랑. 꼭 해 보세요!
+
+피드백, 버그 제보, 아이디어를 댓글란에 자유롭게 남겨 주세요. 전부 읽고 있습니다.
+
+Before the Bell © 2026 Ohhoop. 모든 권리 보유. [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3825220785]SpiffBoy SDK[/url]로 제작되었습니다. [url=https://github.com/Ohhoop/Before-the-Bell/blob/main/LICENSE]라이선스[/url]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3825220364][img]https://ohhoop.github.io/SpiffBoy/i/showcase.gif[/img][/url]
+필수: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3825220364]SpiffBoy[/url]
+Mod ID: BeforeTheBell

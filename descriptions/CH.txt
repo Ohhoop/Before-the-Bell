@@ -1,0 +1,61 @@
+[img]https://ohhoop.github.io/Before-the-Bell/i/title.png[/img]
+
+各位先生，各位女士……鐘聲響起……它正為[b]你[/b]而鳴！
+隆重介紹 [b]Before the Bell[/b]，你的 [b]SpiffBoy[/b] 全新冒險！
+英勇的英雄！閃亮的寶藏！邪惡的敵人與強大的頭目！
+白天整裝備戰。黑夜咬牙撐住。當鐘聲敲響……[i]做好準備。[/i]
+每次遊玩都是全新的大陸！[i]沒有兩次相同的冒險。[/i]
+今天就帶一片回家！[i]SpiffBoy 另售。[/i]
+
+一款自走戰鬥 Roguelite：三幕，每幕結尾一個頭目，每輪都是一條新路。
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-by-day.png[/img]
+[b]購物！搜刮！鍛造！打造你夢想中的英雄！[/b]
+每輪都從一張全新的地圖開始。白天在路上奔走，拜訪商人，打開寶箱，順道去鐵匠鋪看看，把一把零碎雜物變成一位令人畏懼的英雄。數十種物品等你發現、組合和升級，沒有兩輪會走出相同的配裝。
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-by-day.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-by-night.png[/img]
+[b]太陽下山。狩獵開始。[/b]
+當光芒褪去，地圖就不再屬於你。藏在林中的東西紛紛現身追趕你，直到天亮，每一步都至關重要。撐過去，新的一天就在等著你。
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-by-night.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-the-bell.png[/img]
+[b]不用狂按按鍵。只有你、你的裝備和那口鐘。[/b]
+戰鬥自動進行，一招一式，在專屬的畫面上展開。你從不親自揮劍：你在路上收集的一切都會替你戰鬥。每一幕結尾，鐘聲敲響，某個龐然大物隨之回應。
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-the-bell.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-the-camp.png[/img]
+[b]今天失敗，明天捲土重來，更加強大！[/b]
+倒下也是旅程的一部分。每一輪，無論勝負，都會為營地帶回些什麼：擁有獨門絕技的新英雄、路上可尋的新寶藏，以及新的備戰方式。獲勝之後，下一條路會更加黑暗。
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/shot-the-camp.png[/img]
+
+[img]https://ohhoop.github.io/Before-the-Bell/i/header-faq.png[/img]
+Q: 我需要什麼才能玩？
+A: 一台 SpiffBoy。Before the Bell 是它的一片卡帶。
+
+Q: 去哪裡找這片卡帶？
+A: 就在外頭某處，SpiffBoy 卡帶喜歡躲藏的地方。
+
+Q: 支援多人遊戲嗎？
+A: 這是一款單人遊戲，在多人伺服器上也能正常遊玩。
+
+Q: 有翻譯嗎？
+A: 支援遊戲所支援的所有語言。
+
+Q: 可以在存檔中途加入或移除嗎？
+A: 可以。如果移除它，你會失去這片卡帶和它的存檔。
+
+Q: 這個點子是從哪裡來的？
+A: Chronocle 的 [url=https://store.steampowered.com/app/2824490/He_is_Coming/]He is Coming[/url] 點燃了這個點子。不同的遊戲、不同的故事，對這個類型同樣的熱愛。快去玩玩看！
+
+歡迎在留言區分享你的意見回饋、錯誤回報和點子，每一則我都會看。
+
+Before the Bell © 2026 Ohhoop. 保留所有權利。 使用 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3825220785]SpiffBoy SDK[/url] 製作。 [url=https://github.com/Ohhoop/Before-the-Bell/blob/main/LICENSE]授權條款[/url]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3825220364][img]https://ohhoop.github.io/SpiffBoy/i/showcase.gif[/img][/url]
+需要：[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3825220364]SpiffBoy[/url]
+Mod ID: BeforeTheBell

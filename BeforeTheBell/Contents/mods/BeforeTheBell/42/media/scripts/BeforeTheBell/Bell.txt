@@ -1,0 +1,20 @@
+module BeforeTheBell
+{
+    item Cartridge_Bell
+    {
+        DisplayCategory = Entertainment,
+        ItemType = base:normal,
+        Weight = 0.1,
+        Icon = BeforeTheBell_Cartridge_Bell,
+        MetalValue = 1.0,
+        Tags = base:hasmetal;spiffboy:cartridge,
+        WorldStaticModel = BeforeTheBell.Cartridge_Bell,
+    }
+
+    model Cartridge_Bell
+    {
+        mesh = SpiffBoy/Cartridge,
+        texture = BeforeTheBell/BeforeTheBellCartridge_Bell,
+        scale = 0.3,
+    }
+}
