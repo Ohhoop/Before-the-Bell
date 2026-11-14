@@ -54,6 +54,10 @@ end
 return b
 end
 
+function c.firstChest(run)
+return run.tier==0 and run.act==1 and run.day==1
+end
+
 function c.blessed(run,id)
 for a=1,#run.blessings do
 if run.blessings[a]==id then

@@ -29,9 +29,11 @@ a.ROAMERS={4.4,5,6,7,8}
 a.CHASE_RANGE=5
 a.NIGHT_CHASE_RANGE=30
 a.NIGHT_STEPS=30
+a.MAX_ENERGY=math.max(a.ENERGY,a.WINTER_ENERGY,a.NIGHT_STEPS)
 a.DAY="day"
 a.NIGHT="night"
 a.SPAWN_DISTANCE=7
+a.RESUME_GAP=3
 a.LOOP_CHANCE=0.3
 a.SEED_MAX=2147483646
 a.FOE_PASSABLE={chest=true,shrine=true}
@@ -153,13 +155,13 @@ return math.max(1,math.floor(a.COLS*a.ROWS/cells))
 end
 
 local function t(map,x,y,kind)
-local d={x=x,y=y,kind=kind}
+local d={x=x,y=y,kind=kind,number=#map.places+1}
 map.places[#map.places+1]=d
 map.placeCells[b(x,y)]=d
 end
 
 local function C(map,x,y,definition)
-local d={x=x,y=y,definition=definition,wound=0,caught=false}
+local d={x=x,y=y,definition=definition,wound=0,caught=false,number=#map.foes+1}
 map.foes[#map.foes+1]=d
 map.foeCells[b(x,y)]=d
 end
@@ -225,49 +227,49 @@ end
 function a.generate(random,seed,act,day,rules,blessed,firstChest)
 local x=a.layout(seed)
 local i=r(x,a.CAMP_X,a.CAMP_Y)
-local d={}
-for e=1,a.ROWS do
+local e={}
+for d=1,a.ROWS do
 for f=1,a.COLS do
-local h=i[b(f,e)]
-if x[e][f]==a.PATH and h~=nil and h>1 then
-d[#d+1]={f,e}
+local h=i[b(f,d)]
+if x[d][f]==a.PATH and h~=nil and h>1 then
+e[#e+1]={f,d}
 end
 end
 end
-A(d,random)
-local e={
+A(e,random)
+local d={
 seed=seed,places={},foes={},placeCells={},foeCells={},heroX=a.CAMP_X,heroY=a.CAMP_Y,
 energy=a.ENERGY,steps=0,restless=rules.restless,phase=a.DAY,
-winter=rules.winter,trail={},traps={},sprung=false,
+winter=rules.winter,trail={},traps={},sprung=false,blessed=blessed,
 }
 if rules.winter then
-e.energy=a.WINTER_ENERGY
+d.energy=a.WINTER_ENERGY
 end
 local h={}
 local function y(kind,count,nearest)
 local k=1
 for p=1,count do
-local f,o=u(e,d,h,i,k,kind,nearest)
+local f,o=u(d,e,h,i,k,kind,nearest)
 if f==nil then
 return
 end
 h[b(f[1],f[2])]=true
-t(e,f[1],f[2],kind)
+t(d,f[1],f[2],kind)
 k=o+1
 end
 end
 if firstChest then
 local k={}
-for f=1,#d do
-local o,p=d[f][1],d[f][2]
+for f=1,#e do
+local o,p=e[f][1],e[f][2]
 if math.abs(o-a.CAMP_X)<=a.FIRST_VIEW.cols and math.abs(p-a.CAMP_Y)<=a.FIRST_VIEW.rows then
-k[#k+1]=d[f]
+k[#k+1]=e[f]
 end
 end
-local f=u(e,k,h,i,1,"chest",0)
+local f=u(d,k,h,i,1,"chest",0)
 if f then
 h[b(f[1],f[2])]=true
-t(e,f[1],f[2],"chest")
+t(d,f[1],f[2],"chest")
 end
 end
 local o=D(act,day)
@@ -284,15 +286,17 @@ end
 local z=q.roamers[act]
 local p=math.floor(a.ROAMERS[act+day-1]*s(a.FOE_CELLS))
 local k=1
-while p>0 and k<=#d do
-local f=d[k]
+while p>0 and k<=#e do
+local f=e[k]
 k=k+1
-if not h[b(f[1],f[2])]and i[b(f[1],f[2])]>=a.SPAWN_DISTANCE and not w(e,f[1],f[2],nil)then
-C(e,f[1],f[2],z[random:int(1,#z)])
+if not h[b(f[1],f[2])]and i[b(f[1],f[2])]>=a.SPAWN_DISTANCE and not w(d,f[1],f[2],nil)then
+C(d,f[1],f[2],z[random:int(1,#z)])
 p=p-1
 end
 end
-return e
+d.placeTotal=#d.places
+d.foeTotal=#d.foes
+return d
 end
 
 function a.placeAt(map,x,y)
@@ -342,17 +346,30 @@ map.foeCells[b(foe.x,foe.y)]=nil
 end
 end
 
+function a.clearAround(map,x,y,reach)
+for e=#map.foes,1,-1 do
+local d=map.foes[e]
+if math.max(math.abs(d.x-x),math.abs(d.y-y))<=reach then
+a.removeFoe(map,d)
+end
+end
+end
+
 function a.trapAt(map,x,y)
 return map.traps[b(x,y)]
 end
 
-function a.setTrap(map)
-local d=b(map.heroX,map.heroY)
-if map.traps[d]or(map.heroX==a.CAMP_X and map.heroY==a.CAMP_Y)then
+function a.placeTrap(map,x,y)
+local d=b(x,y)
+if map.traps[d]or(x==a.CAMP_X and y==a.CAMP_Y)then
 return false
 end
-map.traps[d]={x=map.heroX,y=map.heroY}
+map.traps[d]={x=x,y=y}
 return true
+end
+
+function a.setTrap(map)
+return a.placeTrap(map,map.heroX,map.heroY)
 end
 
 local function h(map,foe)

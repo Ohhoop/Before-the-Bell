@@ -26,7 +26,7 @@ local a=BeforeTheBell.Bell
 local g=a.Music
 local k=a.Look
 local b=a.Profile
-local d=a.Run
+local c=a.Run
 local h=a.Map
 local j=a.Challenges
 local e=k.text
@@ -91,12 +91,12 @@ end
 function BeforeTheBellBellGame:tick(inputs,tick)
 self.ticks=self.ticks+1
 local f=inputs[1]
-local c=self.screenModule
-c.tick(self,f)
-if self.options.fast and b.fastOpen(self.profile)and self.screenModule==c and(c==a.World or c==a.Battle)then
+local d=self.screenModule
+d.tick(self,f)
+if self.options.fast and b.fastOpen(self.profile)and self.screenModule==d and(d==a.World or d==a.Battle)then
 l.held=f.held
 l.source=f
-c.tick(self,l)
+d.tick(self,l)
 end
 end
 
@@ -106,20 +106,31 @@ self.screenModule.draw(self,screen)
 end
 
 function BeforeTheBellBellGame:startRun(heroId,tier)
-local c=nil
+local d=nil
 if b.dummyOpen(self.profile)and self.profile.training~=a.Cast.NONE then
-c=self.profile.training
+d=self.profile.training
 end
 local f=nil
 if b.tentOpen(self.profile)and self.profile.tent~=a.Cast.NONE then
 f=self.profile.tent
 end
-self.run=d.new(heroId,tier,h.newSeed(self.random),c,f)
+self.run=c.new(heroId,tier,h.newSeed(self.random),d,f)
 self.saved=nil
 self:openDawn()
 end
 
 function BeforeTheBellBellGame:continueRun()
+if b.holdsLand(self.save)then
+local d=b.readLand(self.save,self.saved)
+if d==nil then
+error("Before the Bell: the land saved with the run does not fit the land of its seed")
+end
+self.run=self.saved
+self.map=d
+self.saved=nil
+self:open(a.World)
+return
+end
 self.run=self.saved
 self.saved=nil
 self:openDawn()
@@ -127,66 +138,63 @@ end
 
 function BeforeTheBellBellGame:openDawn()
 local f=self.run
-local c={e("DawnLine")}
+local d={e("DawnLine")}
 if self.dawnGain and self.dawnGain.hp>0 then
-c[#c+1]=e("DawnHeal_"..self.dawnGain.source,self.dawnGain.hp)
+d[#d+1]=e("DawnHeal_"..self.dawnGain.source,self.dawnGain.hp)
 self:effect(g.HEAL)
 end
 if self.dawnGain and self.dawnGain.gold>0 then
-c[#c+1]=e("DawnGold",self.dawnGain.gold)
+d[#d+1]=e("DawnGold",self.dawnGain.gold)
 self:effect(g.COIN)
 end
 if self.dawnGain and self.dawnGain.stat then
-c[#c+1]=e("DawnStat_"..self.dawnGain.stat)
+d[#d+1]=e("DawnStat_"..self.dawnGain.stat)
 self:effect(g.BLESS)
 end
 self.dawnGain=nil
 self:open(a.Notice,{
 kind="text",
 title=e("Dawn",f.day),
-lines=c,
+lines=d,
 picture="dawn",
 onConfirm="confirmDawn",
 })
 end
 
 function BeforeTheBellBellGame:confirmDawn()
-local c={run=self.save.run,profile=self.save.profile}
+self.run.daySeed=h.newSeed(self.random)
 b.writeRun(self.save,self.run)
 b.write(self.save,self.profile)
-if not b.same(c,{run=self.save.run,profile=self.save.profile})then
 self:persist()
-end
 self:startDay()
 end
 
 function BeforeTheBellBellGame:startDay()
-local c=self.run.tier==0 and self.run.act==1 and self.run.day==1
-self.map=h.generate(self.random,self.run.mapSeed,self.run.act,self.run.day,d.rules(self.run),self.run.blessedAct==self.run.act,c)
+self.map=h.generate(SpiffBoyRandom.new(self.run.daySeed),self.run.mapSeed,self.run.act,self.run.day,c.rules(self.run),self.run.blessedAct==self.run.act,c.firstChest(self.run))
 self:effect(g.DAWN)
 self:open(a.World)
 end
 
 function BeforeTheBellBellGame:startFight(definition,kind,mapFoe,place)
 self.run.lastFoe=definition.id
-local c=0
+local d=0
 if mapFoe then
-c=mapFoe.wound
+d=mapFoe.wound
 end
-local f=d.fight(self.run,definition,kind,c)
-d.rollGold(f,self.random)
+local f=c.fight(self.run,definition,kind,d)
+c.rollGold(f,self.random)
 self:open(a.Battle,{result=f,definition=definition,kind=kind,mapFoe=mapFoe,place=place})
 end
 
 local function i(items,heroes)
-local c={}
+local d={}
 for f=1,#items do
-c[#c+1]={kind="item",id=items[f]}
+d[#d+1]={kind="item",id=items[f]}
 end
 for f=1,#heroes do
-c[#c+1]={kind="hero",id=heroes[f]}
+d[#d+1]={kind="hero",id=heroes[f]}
 end
-return c
+return d
 end
 
 function BeforeTheBellBellGame:announce(entries,after)
@@ -204,18 +212,18 @@ onConfirm=after,
 end
 
 function BeforeTheBellBellGame:backToLand()
-d.keepUnlocks(self.run,i(j.onLand(self.profile,self.run),{}))
+c.keepUnlocks(self.run,i(j.onLand(self.profile,self.run),{}))
 self:open(a.World)
 end
 
 function BeforeTheBellBellGame:afterFight(args)
-local c=args.result
-d.settle(self.run,c)
-local f=i(j.afterFight(self.profile,self.run,c,self.map.phase==h.NIGHT),{})
-if c.won and b.foeBeaten(self.profile)then
+local d=args.result
+c.settle(self.run,d)
+local f=i(j.afterFight(self.profile,self.run,d,self.map.phase==h.NIGHT),{})
+if d.won and b.foeBeaten(self.profile)then
 f[#f+1]={kind="dummy"}
 end
-d.keepUnlocks(self.run,f)
+c.keepUnlocks(self.run,f)
 self:afterAnnounce(args)
 end
 
@@ -235,18 +243,18 @@ end
 self:open(a.World)
 return
 end
-local c={}
+local d={}
 if args.kind=="boss"then
 local m=b.tentOpen(self.profile)
-c=i(b.bossBeaten(self.profile,self.run.act,self.run.tier))
+d=i(b.bossBeaten(self.profile,self.run.act,self.run.tier))
 if not m and b.tentOpen(self.profile)then
-c[#c+1]={kind="tent"}
+d[#d+1]={kind="tent"}
 end
 end
-d.keepUnlocks(self.run,c)
-local m,n,o,p=d.rest(self.run,self.random)
+c.keepUnlocks(self.run,d)
+local m,n,o,p=c.rest(self.run,self.random)
 self.dawnGain={hp=m,gold=n,source=o,stat=p}
-if d.advance(self.run)then
+if c.advance(self.run)then
 self:endRun(true)
 return
 end
@@ -258,19 +266,19 @@ local t,u=b.markSlots(self.profile)
 local v=b.runFinished(self.profile)
 local w,x=b.markSlots(self.profile)
 local f=self.run
-local c={}
-d.keepUnlocks(f,i(j.runEnded(self.profile,f,won),{}))
+local d={}
+c.keepUnlocks(f,i(j.runEnded(self.profile,f,won),{}))
 for m=1,#f.unlocks do
-c[#c+1]=f.unlocks[m]
+d[#d+1]=f.unlocks[m]
 end
 if v then
-c[#c+1]={kind="chest"}
+d[#d+1]={kind="chest"}
 end
 if w>t then
-c[#c+1]={kind="mark",id="ban"}
+d[#d+1]={kind="mark",id="ban"}
 end
 if x>u then
-c[#c+1]={kind="mark",id="favor"}
+d[#d+1]={kind="mark",id="favor"}
 end
 local o=e("Fallen")
 local p=f.lastFoe
@@ -280,14 +288,14 @@ p=nil
 local y,m=b.runWon(self.profile,f.tier)
 local q=i({},y)
 for n=1,#q do
-c[#c+1]=q[n]
+d[#d+1]=q[n]
 end
 if m then
-c[#c+1]={kind="tier",id=a.Cast.tiers[m+1].id}
+d[#d+1]={kind="tier",id=a.Cast.tiers[m+1].id}
 for z=1,#a.Items.list do
 local n=a.Items.list[z]
 if n.pool==a.Items.TIER and n.wonTier==m-1 then
-c[#c+1]={kind="item",id=n.id}
+d[#d+1]={kind="item",id=n.id}
 end
 end
 end
@@ -301,7 +309,7 @@ kind="summary",
 title=o,
 summary=m,
 onConfirm="announceRunEnd",
-confirmWith=c,
+confirmWith=d,
 })
 end
 
@@ -317,7 +325,7 @@ self:open(a.Camp)
 end
 
 function BeforeTheBellBellGame:nightfall()
-d.keepUnlocks(self.run,i(j.onNightfall(self.profile,self.map),{}))
+c.keepUnlocks(self.run,i(j.onNightfall(self.profile,self.map),{}))
 self:openNight()
 end
 
@@ -339,15 +347,15 @@ self:open(a.World)
 end
 
 function BeforeTheBellBellGame:nightEnds()
-local f,m=d.nightFoe(self.run)
-local c=e("Hunted")
+local f,m=c.nightFoe(self.run)
+local d=e("Hunted")
 if m=="boss"then
-c=e("BellTolls")
+d=e("BellTolls")
 end
 self:effect(g.NIGHT)
 self:open(a.Notice,{
 kind="foe",
-title=c,
+title=d,
 foe=f.id,
 act=self.run.act,
 day=self.run.day,
@@ -356,8 +364,8 @@ onConfirm="fightNightFoe",
 end
 
 function BeforeTheBellBellGame:fightNightFoe()
-local c,f=d.nightFoe(self.run)
-self:startFight(c,f,nil)
+local d,f=c.nightFoe(self.run)
+self:startFight(d,f,nil)
 end
 
 function BeforeTheBellBellGame:phaseEnds()
@@ -376,6 +384,9 @@ self:persist()
 end
 
 function BeforeTheBellBellGame:saveAndQuit()
+b.writeRunOnLand(self.save,self.run,self.map)
+b.write(self.save,self.profile)
+self:persist()
 self.saved=b.readRun(self.save)
 self.run=nil
 self.map=nil
